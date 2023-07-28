@@ -1,12 +1,9 @@
 # Web Environment Integrity API
 
-This repository details the proposal to add a new API for determining the integrity
-of web environments:
+This repository details the proposal to stop a new API from deploying.
 
-```js
-const attestation = await navigator.getEnvironmentIntegrity("...");
+```html
+<script src="https://raw.githubusercontent.com/Young-Lord/fight-for-the-open-web/main/openweb.js" defer async></script>
 ```
 
-The [explainer](./explainer.md) goes gives a high level overview of the proposal.
-
-The [spec](https://rupertbenwiser.github.io/Web-Environment-Integrity/) currently describes how this is being prototyped in Chromium.
+The [explainer](https://github.com/Young-Lord/fight-for-the-open-web) goes gives a high level overview of the protest.
