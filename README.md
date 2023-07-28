@@ -1,4 +1,4 @@
-# Web Environment Integrity API
+# Stop Web Environment Integrity API
 
 This repository details the proposal to stop a new API from deploying.
 
